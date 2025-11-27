@@ -1,6 +1,10 @@
 ---
+---
+layout: single
 title: "Home"
-layout: default
+permalink: /
+---
+
 ---
 
 # **Dr. Muhammad Awais Sattar, Ph.D.**
