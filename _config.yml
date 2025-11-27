@@ -1,18 +1,38 @@
 title: "Dr. Muhammad Awais Sattar"
-description: "Academic Website"
-theme: jekyll-theme-cayman
+email: "awaissattarch@gmail.com"
+description: "Academic Website of Dr. Muhammad Awais Sattar"
+baseurl: "" 
+url: "https://awaiss.github.io"
 
-# Navigation menu
-nav:
-  - name: Home
-    link: /
-  - name: CV
-    link: /cv
-  - name: Research
-    link: /research
-  - name: Publications
-    link: /publications
-  - name: Teaching
-    link: /teaching
-  - name: Contact
-    link: /contact
+# Use Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Enable theme features
+plugins:
+  - jekyll-include-cache
+
+# Navigation bar
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv
+  - title: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
+
+# Author information
+author:
+  name: "Dr. Muhammad Awais Sattar"
+  avatar: "/assets/profile.jpg"
+  bio: "Postdoctoral Researcher • Luleå University of Technology"
+  location: "Luleå, Sweden"
+  links:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=09S73QcAAAAJ&hl=en"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/muhammad-awais-sattar-ph-d-98191a7b/"
