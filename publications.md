@@ -1,7 +1,9 @@
 ---
-title: "Publications"
-layout: default
+layout: single
+title: "Research"
+permalink: /research/
 ---
+
 
 # **Research Publications**
 
