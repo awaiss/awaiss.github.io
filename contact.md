@@ -1,7 +1,9 @@
 ---
-title: "Contact"
-layout: default
+layout: single
+title: "Research"
+permalink: /research/
 ---
+
 
 # **Contact Me**
 
