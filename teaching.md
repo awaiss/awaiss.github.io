@@ -1,7 +1,9 @@
 ---
-title: "Teaching"
-layout: default
+layout: single
+title: "Research"
+permalink: /research/
 ---
+
 
 # **Teaching Portfolio**
 
