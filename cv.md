@@ -1,7 +1,9 @@
 ---
-title: "Curriculum Vitae"
-layout: default
+layout: single
+title: "CV"
+permalink: /cv/
 ---
+
 
 # **Curriculum Vitae — Dr. Muhammad Awais Sattar, Ph.D.**
 
