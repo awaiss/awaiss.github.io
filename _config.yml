@@ -1,19 +1,18 @@
 title: "Dr. Muhammad Awais Sattar"
 description: "Academic Website"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # Navigation menu
-navigation:
-  - title: "Home"
-    url: /
-  - title: "CV"
-    url: /cv
-  - title: "Research"
-    url: /research
-  - title: "Publications"
-    url: /publications
-  - title: "Teaching"
-    url: /teaching
-  - title: "Contact"
-    url: /contact
-
+nav:
+  - name: Home
+    link: /
+  - name: CV
+    link: /cv
+  - name: Research
+    link: /research
+  - name: Publications
+    link: /publications
+  - name: Teaching
+    link: /teaching
+  - name: Contact
+    link: /contact
